@@ -11,7 +11,7 @@ namespace JenkinsTest
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-			Console.WriteLine("Hello again");
+			Console.WriteLine("Hello again-ngrok");
 			Console.WriteLine("Jenkins trigger added");
             Console.ReadLine();
         }
